@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.12.0",
     "body-parser": "^1.18.3",
     "cookie-parser": "^1.4.4",
     "escodegen": "^1.14.3",
